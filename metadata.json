@@ -1,0 +1,6 @@
+{
+  "name": "CercaMatch",
+  "description": "App de citas y matching 100% gratuita con chats por ubicación cercana y foros de debate locales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
