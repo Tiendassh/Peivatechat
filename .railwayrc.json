@@ -1,0 +1,4 @@
+{
+  "buildCommand": "./gradlew shadowJar",
+  "startCommand": "java -jar build/libs/app-all.jar"
+}
